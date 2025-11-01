@@ -19,7 +19,7 @@ La distribución presenta un claro sesgo positivo (a la derecha), donde la mayor
 
 *Identifique qué tipo tiene Pokémon con ataques más altos en promedio:*
 
-El tipo Dragon presenta los valores de ataque más altos en promedio, evidenciado por la posición elevada de su caja en el gráfico. Le siguen muy de cerca los tipos Fighting y Ground, que también muestran medianas considerablemente altas. En el extremo opuesto, los tipos Fairy, Psychic y Bug exhiben los promedios de ataque más bajos, confirmando el patrón de diseño donde tipos tradicionalmente ofensivos como Dragon y Fighting poseen mayor poder de ataque base.
+El tipo Psychic presenta los valores de ataque más altos en promedio, evidenciado por la posición elevada de su caja en el gráfico. Le siguen muy de cerca los tipos Fighting y Ground, que también muestran medianas considerablemente altas. En el extremo opuesto, los tipos Fairy, Psychic y Bug exhiben los promedios de ataque más bajos, confirmando el patrón de diseño donde tipos tradicionalmente ofensivos como Dragon y Fighting poseen mayor poder de ataque base.
 
 ![3](https://github.com/user-attachments/assets/73840c5b-dd91-4cf9-9bcb-9433e9255d97)
 
