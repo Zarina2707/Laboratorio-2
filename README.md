@@ -30,11 +30,13 @@ Los "Paradox Pokémon" dominan significativamente con 22 individuos, duplicando 
 *¿Qué tipo es el más común?*
 
 El tipo Water (Agua) es claramente el más común, mostrando la barra significativamente más alta en la distribución. Le siguen en frecuencia los tipos Normal y Grass (Planta), que ocupan el segundo y tercer lugar respectivamente. Esto refleja la tendencia de diseño donde los tipos acuáticos predominan numéricamente en el universo Pokémon,  posiblemente por la diversidad de ecosistemas acuáticos y la adaptabilidad de este tipo a diversas morfologías.
+
 ![4](https://github.com/user-attachments/assets/b9bfb1d5-8377-490e-84c9-1b13f0ff5347)
 
 *¿Qué atributos están más correlacionados entre sí?* *Interprete los resultados*
 
 El mapa de calor muestra que no hay correlaciones muy fuertes entre las estadísticas base de los Pokémon, pero sí algunas relaciones medianas. Por ejemplo, HP y Ataque (0.46), y Ataque y Defensa (0.47) están algo relacionadas, lo que sugiere que los Pokémon con más vida suelen tener también un ataque o defensa decente. En cambio, Speed (velocidad) casi no se relaciona con  las demás, especialmente con la defensa (solo 0.0087), o sea, ser rápido no tiene nada que ver con ser resistente. En general, las correlaciones están entre 0.3 y 0.4, lo cual indica que cada estadística es bastante independiente.
+
 ![7](https://github.com/user-attachments/assets/1e6a7e7e-f018-4240-b1eb-6713c71322d4)
 
 *¿Existe relación entre el peso de un Pokémon y su capacidad de ataque?*
@@ -51,4 +53,5 @@ Se observa que los Pokémon tipo Steel, Dragon y Ground son los más altos y pes
 *¿Qué tipo de Pokémon tiende a ser más rápido?*
 
 En la gráfica se ve que los Pokémon Eléctricos y Voladores suelen tener un mayor velocidad base, mientras que los del tipo Ground son más lentos. Los tipos eléctricos también muestran más cambio con algunos casos extremos muy rápidos. Esto muestra que en la velocidad de un Pokémon influye directamente su tipo porque ciertos tipos relacionados. los relacionados al aire o a la energía suelen moverse más rápido, mientras que los de tierra son mejor en fuerza o defensa que velocidad.
+
 ![10 1](https://github.com/user-attachments/assets/3f84470b-c383-41a8-9bd6-e9421cd4e763)
