@@ -1,6 +1,9 @@
 # Laboratorio-2
+
 Laura Jimena Botero Sierra
-Zarina Fuentes
+
+Zarina Fuentes De Avila
+
 Jhon Alex Salazar Rojas 
 
 *¿Cuál es el promedio, mínimo y máximo de los atributos base (HP, Attack, Defense, Speed) de todos los Pokémon?*
